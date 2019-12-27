@@ -8,3 +8,7 @@ Este proeycto es una aplicación móvil para el uso en los curos de ingeniería 
 •	ADD – Architecture driven design
 •	R&W Method – Rozanski and woods Method
 La aplicación esta construida haciendo uso del motor de videojeugos Unity3D y hace uso de Vuforia como motor de realidad aumentada, ene ste documento se describe el diseño de la aplciación y sus principales funcionalidades, en las cuales se describen las princiapales caracteristicas técnicas del software a tener en cuenta para una posterioe modificación de este.
+
+
+# LICENCIA #
+Este proyecto cuenta con licencia conforme a los términos de la licencia MIT
